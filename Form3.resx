@@ -1,0 +1,88 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>All cases in which the Academic Integrity Policy is alleged to have been breached shall be reviewed by the Department Chair.
+Department Chair (or designate):
+When you receive this form from the Faculty Member, complete the following:
+1. Check to ensure that both the student and Faculty Member have entered their signatures or signed a printed form.
+2. Answer the question below.
+3. Ensure that the evidence is attached.
+4. Sign the printed form or enter your digital signature by clicking the appropriate signature box and follow the instructions in
+Adobe Reader or Adobe Acrobat. Make sure that you do not make any changes to the document after you sign it.
+5. Save this form to your computer and forward it and any email attachments, to the Dean within seven (7) days.</value>
+  </data>
+  <data name="textBox14.Text" xml:space="preserve">
+    <value>All cases in which the Academic Integrity Policy is alleged to have been breached shall be reviewed by the Dean. All 
+cases that reach the Academic Integrity Committee must have been forwarded from the Dean (or designate), rather than 
+from the Faculty Member.
+
+Dean (or designate):
+When you receive this form from the Department Chair, complete the following:
+1. Check to ensure that the student, Faculty Member and Chair have entered their digital signatures or signed a printed
+copy of the form.
+2. Answer the questions below.
+3. Ensure that the supporting evidence of the case is attached.
+4. Sign the printed form or enter your digital signature by clicking the appropriate signature box and follow the instructions
+in Adobe Reader or Adobe Acrobat. Make sure that you do not make any changes to the document after you sign it.
+5. Save this form to your computer
+6.Submit the case package within (7) days by emailing the case in one PDF file to aic@tru.ca, or sending the original printed
+copy of the file to the Office of Student Affairs in OM 1631.</value>
+  </data>
+</root>

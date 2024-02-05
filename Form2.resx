@@ -1,0 +1,91 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox13.Text" xml:space="preserve">
+    <value>1. Read your case and evidence from the Faculty Member.
+2. Please answer the following question by checking either “Yes” or “No.”
+3. Enter the date.
+4. Enter your digital signature by clicking the appropriate signature box by following the instructions in Adobe Reader or Adobe Acrobat or sign the printed copy of the form. Make sure that you do not make any changes to the document
+after you sign it.
+5. Save this form to your computer and email it back to the Faculty Member within seven (7) days of receipt.
+6.If this form is not returned within seven (7) days of receipt, the Faculty Member will proceed</value>
+  </data>
+  <data name="textBox17.Text" xml:space="preserve">
+    <value>I,  (STUDENT NAME, TYPED or PRINTED) have been made aware of 
+Academic Integrity Policy ED 5-0, as well as my alleged violation of this policy.
+I am aware that, as per Policy ED 5-0, I will be given an opportunity to make a written submission to the Academic Integrity 
+Committee. If I feel there has been an error in the Academic Integrity process, I have the right to an appeal as per policies ED 
+4-0 (Student Academic Appeals) and ED 5-0 (Student Academic Integrity).
+I am aware that I may contact the Office of Student Affairs for assistance. It has been explained to me that a record of this 
+alleged violation will be placed in the Academic Integrity database and held confidentially in the Office of Student Affairs and 
+that the only individuals who will have knowledge of my involvement in this occurrence will be the people signing this form, 
+the Chairperson of the Academic Integrity Committee and the Director of Student Affairs.</value>
+  </data>
+  <data name="textBox22.Text" xml:space="preserve">
+    <value>When you receive this form back from the student please proceed with #1, below.
+If you do not receive the form from the student within seven (7) days, please proceed with #2, below.
+1. Check to ensure that the student has signed a printed copy of the form or entered their digital signature.
+2. Sign the printed form or enter your digital signature by clicking the appropriate signature box below and following
+the instructions in Adobe Reader or Adobe Acrobat. Make sure that you do not make any changes to the document
+after you sign it.
+3. Save this form to your computer.
+4. Forward this form to the Department Chair with a copy of the evidence, such as assignment or work in question
+(PDF is preferred, but not necessary) within seven (7) days.</value>
+  </data>
+</root>

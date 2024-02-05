@@ -1,0 +1,83 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox16.Text" xml:space="preserve">
+    <value>Faculty Member:
+1. Please fill out the form below. Include only one (1) student assignment or case in each form. Use multiple forms if the violation 
+involves more than one student, or if a student is involved in multiple cases.
+2. Provide comments and evidence at the end of this form highlighting the violation of ED 5-0. Submissions will not be accepted without 
+evidence.
+3. Complete a printed copy of the form or enter your digital signature by clicking the box at the bottom of this page and follow the 
+instructions in Adobe Reader or Adobe Acrobat. Make sure that you do not make any changes to the document after you sign it.
+4. Save the form to your computer as &lt;studentlastname_coursenumber_month_year.pdf&gt;.
+5. Attach the form and evidence of the case to an email you will send to the student, or meet the student in person to complete the next step</value>
+  </data>
+  <data name="textBox22.Text" xml:space="preserve">
+    <value>Typical sanctions include reprimand, reduction of grade by a specific percentage, zero for assignment/exam, 
+remedial sanctions (such as resubmission, etc.), failure of course, and suspension. Please note that decisions 
+on cases are made by the Academic Integrity Committee. Please provide evidence on Page 4 if you are 
+recommending a specific sanction and this will be taken into consideration by the committee.
+When contacting the student to arrange a meeting to discuss this alleged violation, please ensure the student is 
+advised of the following: (please check these boxes when completed).
+The student is advised that they may bring a support person to the meeting between the student and instructor 
+at which the Case Report Form and all evidence will be reviewed by and presented to the student. 
+The student is advised that they may submit a written statement to the Academic Integrity Committee by email 
+to aic@tru.ca</value>
+  </data>
+</root>
